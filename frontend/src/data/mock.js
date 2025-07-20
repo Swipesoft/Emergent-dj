@@ -2,22 +2,22 @@
 export const mockTracks = [
   {
     id: 1,
-    title: "Electric Dreams",
-    artist: "Synth Wave",
+    title: "Declan Rice",
+    artist: "Odumodu Blvck ft. Ajebo Hustlers",
     duration: "4:32",
     genre: "Electronic",
     bpm: 128,
-    s3Uri: "https://www.soundjay.com/misc/sounds/bell-ringing-05.mp3", // Using free sample
+    s3Uri: "https://jn3.70clacks.co/uploads/music/2025/04/ODUMODUBLVCK-AJEBO-HUSTLERS-(JustNaija.com).mp3", // Using free sample
     waveform: Array.from({length: 100}, (_, i) => Math.random() * 100)
   },
   {
     id: 2,
-    title: "Midnight Groove",
-    artist: "Deep House Collective",
+    title: "With You",
+    artist: "Davido ft. Omah Lay",
     duration: "5:18",
     genre: "House",
     bpm: 122,
-    s3Uri: "https://www.soundjay.com/misc/sounds/bell-ringing-05.mp3", // Using free sample
+    s3Uri: "https://jn3.70clacks.co/uploads/music/2025/04/Davido-With-You-Ft-Omah-Lay-(JustNaija.com).mp3", // Using free sample
     waveform: Array.from({length: 100}, (_, i) => Math.random() * 100)
   },
   {
